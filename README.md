@@ -1,2 +1,28 @@
-# 6bb5bc46-grant-writing-management-ven
-Stop losing time and risking compliance issues by managing grant procurement with spreadsheets and scattered emails. This template centralizes your vendor evaluation and procurement process directly within Notion, turning chaotic follow-ups into a structured, auditable pipeline from RFP to contract award.  Designed for grant-funded projects, this t
+# Grant Writing & Management Vendor Evaluation and Procurement Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmaEX4eP4sc2hifQ8d0j3R)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmaEX4eP4sc2hifQ8d0j3R)
+
